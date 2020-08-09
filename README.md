@@ -12,13 +12,13 @@
 
 It has a simple GUI, and you can choose how many elements the JSON has dinamically
 
-[Gui1](https://raw.githubusercontent.com/moldovanotiliu/populate-firebase-database/master/GUI.png)
+![Gui1](https://raw.githubusercontent.com/moldovanotiliu/populate-firebase-database/master/GUI.png)
 
 After you complete the reference and the number of elements that you need press the button.
 The GUI will extend.
 
-[Gui2](https://raw.githubusercontent.com/moldovanotiliu/populate-firebase-database/master/GUI1.png)
+![Gui2](https://raw.githubusercontent.com/moldovanotiliu/populate-firebase-database/master/GUI1.png)
 
 When u press upload, the information will be written to the Realtime Database.
 
-[Database]()
+![Database](https://raw.githubusercontent.com/moldovanotiliu/populate-firebase-database/master/db.png)
